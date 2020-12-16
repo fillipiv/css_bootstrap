@@ -1,0 +1,97 @@
+.container{
+    border:3px solid brown;
+    width: 500px;
+}
+
+.div1{
+    background-color: yellow;
+}
+
+.div2{
+    background-color: rgb(101, 101, 248);
+}
+
+.div3{
+    background-color: rgb(80, 155, 80);
+}
+
+.div4{
+    background-color: rgb(255, 109, 109);
+}
+
+
+
+p {
+    color: rgba(64, 9, 75, 0.911);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+body{
+    background-color: rgba(61, 233, 27, 0.774)
+
+}
+.menu{
+    color:rgb(17, 6, 59);
+    font-size:14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.lista{
+    color:rgba(55, 10, 82, 0.836);
+    font-size:14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Comentado - os estilos são aplicados na ordem, então se isto é descomentado, os labels de "formulario" ficam alterados com a cor
+label{
+    color:rgb(17, 6, 59);
+
+}*/
+
+legend{
+    color:rgb(4, 53, 10);
+    font-size:14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#formulario_contato{
+    background-color: rgba(255, 255, 255, 0.877);
+    color:rgb(56, 28, 168);
+    font-size:13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.campo_nome{
+    position:absolute;
+    left:85px;
+    width: 260px;
+    background-color: aqua;
+    color: crimson;
+
+}
+
+.campo_email{
+    position:absolute;
+    left:85px;
+    width: 290px;
+
+}
+
+.campo_senha{
+    width: 50px;
+    position:absolute;
+    left:345px;
+
+}
+
+.campo_data{
+    position:absolute;
+    left:140px;
+    background-color: aqua;
+    color: crimson;
+
+}
